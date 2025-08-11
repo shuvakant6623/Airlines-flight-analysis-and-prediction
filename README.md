@@ -86,12 +86,4 @@ Outputs a dataframe with train/test scores.
 
 ---
 
-## ▶ Running the Code
-```bash
-# Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn catboost scipy
-
-# Run script
-python prediction.ipynb
-
 
